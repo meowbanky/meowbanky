@@ -57,8 +57,8 @@ A developer who enjoys building reliable systems and learning by shipping.
 ---
 
 ## Connect With Me
-* LinkedIn: www.linkedin.com/in/abiodun-bankole-dev(#)
-* X: https://x.com/meow_banky(#)
+* LinkedIn: www.linkedin.com/in/abiodun-bankole-dev
+* X: https://x.com/meow_banky
 * Email: (mailto:bankole.adesoji@gmail.com)
 
 ---
