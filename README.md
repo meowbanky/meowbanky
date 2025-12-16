@@ -48,6 +48,11 @@ A developer who enjoys building reliable systems and learning by shipping.
 
 ## Coding Activity
 
+```
+Consistency > intensity
+```
+
+
 
 ### Github
 <!-- This card updates automatically every 24 hours -->
